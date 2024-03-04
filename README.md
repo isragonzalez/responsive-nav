@@ -1,2 +1,4 @@
 # responsive-nav
-single responsive nav whit HTML, CSS, JS
+single responsive nav with HTML, CSS and JS
+
+
